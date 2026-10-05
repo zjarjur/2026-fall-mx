@@ -1,9 +1,9 @@
-body{
+body {
     background-color: light-dark(yellow, darkblue);
     color: light-dark(darkblue, yellow);
 }
 
-footer{
-    background-color: light-dark(yellow, darkblue);
-    color: light-dark(darkblue, yellow);
+footer {
+    background-color: light-dark(white, black);
+    color: light-dark(black, white);
 }
